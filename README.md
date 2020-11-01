@@ -15,6 +15,7 @@
   # Langkah membuat biodata dengan python
 
    1.Buka spyder yang tadi udah di instal
+   
    2.Maka akan tampil sebagai berikut.
 
  ![03.png](/gambar/03.png)
