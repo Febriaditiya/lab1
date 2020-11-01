@@ -1,32 +1,51 @@
-##Biodata
-
-  #Cara instal IDE Spyder di Windows
+**##Biodata
+**
+  **#Cara instal IDE Spyder di Windows**
  
 1.Pertama buka software Google Crome  
+
  ![01.png](/gambar/01.png)
+
 2.Kemudian **cari IDE Spyder**
+
  ![02.png](/gambar/02.png)
+
 3.Kemudian instal "tunggu hingga beres"
  
-  #Langkah membuat biodata dengan python
+  **#Langkah membuat biodata dengan python**
+
    1.Buka spyder yang tadi udah di instal
    2.Maka akan tampil sebagai berikut.
+
  ![03.png](/gambar/03.png)
+
  3.Kemudian tuliskan code sebagai berikut.
+
  ![04.png](/gambar/04.png)
+
  Untuk Output ketik `print()`
+
  ![05.png](/gambar/05.png)
+
  4.Kemudian klik `Run atau bisa klik f5` maka akan seperti gambar berikut.
+
  ![06.png](/gambar/06.png)
- 5.Masukkan identitas user klik 'enter'
+ 
+5.Masukkan identitas user klik 'enter'
+
  ![07.png](/gambar/07.png)
+
  6.Selamat biodata sudah berjalan
+
  ![08.png](/gambar/08.png)
+
  7.Kemudian **save as** di folder yang kamu mau.
+
  ![09.png](/gambar/09.png)
+
  jangan lupa untuk penamaan **"nama file.py"**
 
-##Keterangan
+**##Keterangan**
 
   **Tipe data yang ada di Python**
 
