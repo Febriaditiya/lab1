@@ -1,6 +1,6 @@
 # Biodata
 
-  ## Cara instal IDE Spyder di Windows
+## Cara instal IDE Spyder di Windows
  
 1.Pertama buka software Google Crome  
 
