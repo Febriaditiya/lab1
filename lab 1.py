@@ -28,3 +28,5 @@ print("Assalamu'alaikum.")
 print("hello",nama,"nama panggilan saya",nama2,"no npm saya",npm,)
 print("saya lahir dari kota",tpl,"dan saya lahir pada tanngal",tgl,)
 print("nomor telepon saya adalah",tpln,"saya tinggal di daerah",almet)
+
+print("TRIMAKASIH")
